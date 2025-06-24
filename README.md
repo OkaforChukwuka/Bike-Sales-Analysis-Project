@@ -29,4 +29,5 @@ This project provides insights into profit, revenue, top products, and consumer 
 ---
 
 ## 📁 File Structure
+https://github.com/OkaforChukwuka/Bike-Sales-Analysis-Project/blob/main/Annotation%202024-08-25%20184936.png
 
